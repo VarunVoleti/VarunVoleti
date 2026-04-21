@@ -4,6 +4,8 @@
 
 Results-driven Data Analyst with a Master’s degree in Information Science (Data Analytics) from the University at Albany, SUNY, and hands-on experience building ETL pipelines, data models, and stakeholder-facing BI dashboards using SQL, Python, Power BI, and Tableau. Skilled in transforming raw, messy datasets into structured insights that support data-driven business decisions. Holds a Google Data Analytics Professional Certificate alongside multiple technical certifications in SQL, Python, and Business Intelligence.
 
+[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunVoleti)](https://github.com//github-readme-stats)
+
 ### Skills
 
 **Languages:**
@@ -23,7 +25,7 @@ Excel, Power BI, Tableau
 This project focuses on cleaning and analyzing global life expectancy data using MySQL. The dataset contains health, economic, and demographic indicators across countries and years, with several real-world data quality issues such as missing values, inconsistencies, and duplicates.
 This project focuses on cleaning and analyzing global life expectancy data using MySQL. The dataset contains health, economic, and demographic indicators across countries and years, with several real-world data quality issues such as missing values, inconsistencies, and duplicates.
 
-GitHub Repo:[https://github.com/VarunVoleti/Project1_SQL]
+GitHub Repo: [https://github.com/VarunVoleti/Project1_SQL]
 
 Project Summary(https://www.notion.so/Project-Summary-345d7c1b28c2803a8007c39d60acdd34?source=copy_link)
 
