@@ -23,42 +23,38 @@ Excel, Power BI, Tableau
 ### Projects
  **1. World Life Expectancy Analysis (MySQL)**
  
-**📌 Project Overview**
+**📌 Project Overview**<br>
 This project focuses on cleaning and analyzing global life expectancy data using MySQL. The dataset contains health, economic, and demographic indicators across countries and years, with several real-world data quality issues such as missing values, inconsistencies, and duplicates.
 This project focuses on cleaning and analyzing global life expectancy data using MySQL. The dataset contains health, economic, and demographic indicators across countries and years, with several real-world data quality issues such as missing values, inconsistencies, and duplicates.
 
-GitHub Repo: [https://github.com/VarunVoleti/Project1_SQL]
-
+GitHub Repo: [https://github.com/VarunVoleti/Project1_SQL]<br>
 Project Summary(https://www.notion.so/Project-Summary-345d7c1b28c2803a8007c39d60acdd34?source=copy_link)
 
 **2. Live Crypto Price Web Scraper | Python**
 
 Automated Bitcoin Price Tracker with Timestamp Logging
 
-**📌 Project Overview****
+**📌 Project Overview****<br>
 This project is a live automated web scraper built in Python that continuously tracks the price of Bitcoin from CoinMarketCap and logs the data into a CSV file every 5 seconds.
 
 It:
 Scrapes live Bitcoin price data Cleans and formats the extracted value Attaches a real-time timestamp Appends data continuously to a CSV file Runs automatically in an infinite loop This project demonstrates how to build a mini real-time data pipeline using Python.
 
-GitHub Repo: [https://github.com/VarunVoleti/project_4_webscraping]
-
+GitHub Repo: [https://github.com/VarunVoleti/project_4_webscraping]<br>
 Project Summary: https://www.notion.so/Project-Summary-345d7c1b28c280698504dd7f1a83d5e4?source=copy_link
 
 **3. HR Analytics Dashboard | Power BI**
 
 This project presents a comprehensive HR Analytics Dashboard built in Power BI to analyze employee attrition, salary distribution, job roles, education background, and workforce demographics.
 
-GitHub Repo: [https://github.com/VarunVoleti/Power_BI_final_dashboard]
-
+GitHub Repo: [https://github.com/VarunVoleti/Power_BI_final_dashboard]<br>
 Project Summary: https://www.notion.so/Project-Summary-345d7c1b28c280b8adf5cc304ee92553?source=copy_link
 
 **4. Salary Dashboard using Excel**
 
 This data-jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
 
-GitHub Repo: https://github.com/VarunVoleti/data_analysis_project1_using_excel
-
+GitHub Repo: https://github.com/VarunVoleti/data_analysis_project1_using_excel<br>
 Project Summary: https://www.notion.so/Project-Summary-345d7c1b28c280e59f3fcdb1a06296e7?source=copy_link
 
 ### Experience 
