@@ -76,6 +76,8 @@ Koneru Lakshmaiah Education Foundation (KLEF), Andhra Pradesh*
 2018-2022
 CGPA 8.62
 
+### Certifications 
+
 [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1E0TTdhu3M4KUA8ftYVtYCDZ7N4Hr5Wki/view?usp=sharing) 
 
 [Excel for Data Analytics: Luke B](https://drive.google.com/file/d/1sVwjcBMLFXY-H_zoW3GgFyTvaKu2IGtd/view?usp=sharing)
